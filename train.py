@@ -1,4 +1,3 @@
-
-BLR=100
-hyd=200
-print("hyd train is more")
+BLR=200
+HYD=400
+print("hyd price is more")
